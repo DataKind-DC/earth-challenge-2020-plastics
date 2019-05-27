@@ -1,0 +1,261 @@
+Column Name,Data Source,High-Level Category
+Hard Plastic Fragments,MDMAP,Plastic
+Foamed Plastic Fragments,MDMAP,Plastic
+Filmed Plastic Fragments,MDMAP,Plastic
+Food Wrappers,MDMAP,Plastic
+Plastic Beverage Bottles,MDMAP,Plastic
+Other Jugs/Containers,MDMAP,Plastic
+Bottle/Container Caps,MDMAP,Plastic
+Cigar Tips,MDMAP,Other
+Cigarettes,MDMAP,Other
+Disposable Cigarette Lighters,MDMAP,Plastic
+6-Pack Rings,MDMAP,Plastic
+Bags,MDMAP,Plastic
+Plastic Rope/Net,MDMAP,Fishing Gear
+Buoys & Floats,MDMAP,Fishing Gear
+Fishing Lures & Line,MDMAP,Fishing Gear
+Cups,MDMAP,Plastic
+Plastic Utensils,MDMAP,Plastic
+Straws,MDMAP,Plastic
+Balloons Mylar,MDMAP,Plastic
+Personal Care Products,MDMAP,Other
+Plastic Other,MDMAP,Plastic
+Metal,MDMAP,Metal
+Aluminum/Tin Cans,MDMAP,Metal
+Aerosol Cans,MDMAP,Metal
+Metal Fragments,MDMAP,Metal
+Metal Other,MDMAP,Metal
+Glass,MDMAP,Glass
+Glass Beverage Bottles,MDMAP,Glass
+Jars,MDMAP,Glass
+Glass Fragments,MDMAP,Glass
+Glass Other,MDMAP,Glass
+Rubber,MDMAP,Rubber
+Flip Flops,MDMAP,Plastic
+Rubber Gloves,MDMAP,Rubber
+Tires,MDMAP,Rubber
+Balloons Latex,MDMAP,Plastic
+Rubber Fragments,MDMAP,Rubber
+Rubber Other,MDMAP,Rubber
+Processed Lumber,MDMAP,Processed Lumber
+Cardboard Cartons,MDMAP,Processed Lumber
+Paper and Cardboard,MDMAP,Processed Lumber
+Paper Bags,MDMAP,Processed Lumber
+Lumber/Building Material,MDMAP,Processed Lumber
+Processed Lumber Other,MDMAP,Processed Lumber
+Cloth/Fabric,MDMAP,Cloth
+Clothing & Shoes,MDMAP,Cloth
+Gloves (non-rubber),MDMAP,Cloth
+Towels/Rags,MDMAP,Cloth
+Rope/Net Pieces (non-nylon),MDMAP,Fishing Gear
+Fabric Pieces,MDMAP,Cloth
+Cloth/Fabric Other,MDMAP,Cloth
+# of bags,TIDES,Plastic
+Cigarette Butts,TIDES,Other
+"Food Wrappers (candy, chips, etc.)",TIDES,Plastic
+Take Out/Away Containers (Plastic),TIDES,Plastic
+Take Out/Away Containers (Foam),TIDES,Plastic
+Bottle Caps (Plastic),TIDES,Plastic
+Bottle Caps (Metal),TIDES,Metal
+Lids (Plastic),TIDES,Plastic
+"Straws, Stirrers",TIDES,Plastic
+"Forks, Knives, Spoons",TIDES,Metal
+Beverage Bottles (Plastic),TIDES,Plastic
+Beverage Bottles (Glass),TIDES,Glass
+Beverage Cans,TIDES,Metal
+Grocery Bags (Plastic),TIDES,Plastic
+Other Plastic Bags,TIDES,Plastic
+Paper Bags,TIDES,Processed Lumber
+"Cups, Plates (Paper)",TIDES,Processed Lumber
+"Cups, Plates (Plastic)",TIDES,Plastic
+"Cups, Plates (Foam)",TIDES,Plastic
+"Fishing Buoys, Pots & Traps",TIDES,Fishing Gear
+Fishing Net & Pieces,TIDES,Fishing Gear
+Fishing Line (1 yard/meter = 1 piece),TIDES,Fishing Gear
+Rope (1 yard/meter = 1 piece),TIDES,Other
+Fishing Gear (Clean Swell),TIDES,Fishing Gear
+6-Pack Holders,TIDES,Plastic
+Other Plastic/Foam Packaging,TIDES,Plastic
+"Other Plastic Bottles (oil, bleach, etc.)",TIDES,Plastic
+Strapping Bands,TIDES,Plastic
+Tobacco Packaging/Wrap,TIDES,Plastic
+Other Packaging (Clean Swell),TIDES,Metal
+"Appliances (refrigerators, washers, etc.)",TIDES,Metal
+Balloons,TIDES,Rubber
+Cigar Tips,TIDES,Processed Lumber
+Cigarette Lighters,TIDES,Plastic
+Construction Materials,TIDES,Other
+Fireworks,TIDES,Other
+Tires,TIDES,Rubber
+Toys,TIDES,Plastic
+Other Trash (Clean Swell),TIDES,Other
+Condoms,TIDES,Rubber
+Diapers,TIDES,Plastic
+Syringes,TIDES,Other
+Tampons/Tampon Applicators,TIDES,Other
+Personal Hygiene (Clean Swell),TIDES,Other
+Foam Pieces,TIDES,Plastic
+Glass Pieces,TIDES,Glass
+Plastic Pieces,TIDES,Plastic
+"4/6-pack yokes, six-pack rings",MLW,Plastic
+Shopping Bags  incl. pieces,MLW,Plastic
+"Small plastic bags, e.g. freezer bags incl. pieces",MLW,Plastic
+Plastic bags collective role; what remains from rip-off plastic bags,MLW,Plastic
+Drink bottles  <=0.5l,MLW,Plastic
+Drink bottles  >0.5l,MLW,Plastic
+Cleaner bottles & containers,MLW,Plastic
+Food containers incl. fast food containers,MLW,Other
+"Beach use related cosmetic bottles and containers, eg. Sunblocks",MLW,Plastic
+Other cosmetics bottles & containers,MLW,Plastic
+Other bottles & containers (drums),MLW,Plastic
+Engine oil bottles & containers <50 cm,MLW,Plastic
+Engine oil bottles & containers > 50 cm,MLW,Plastic
+Jerry cans (square plastic containers with handle),MLW,Plastic
+Injection gun containers,MLW,Plastic
+Crates and containers / baskets,MLW,Plastic
+Car parts,MLW,Other
+Plastic caps/lids drinks,MLW,Plastic
+"Plastic caps/lids chemicals, detergents (non-food)",MLW,Plastic
+Plastic caps/lids unidentified,MLW,Plastic
+Plastic rings from bottle caps/lids,MLW,Plastic
+Tobacco pouches / plastic cigarette box packaging,MLW,Plastic
+Cigarette lighters,MLW,Plastic
+Cigarette butts and filters,MLW,Other
+Pens and pen lids,MLW,Plastic
+Combs/hair brushes/sunglasses,MLW,Plastic
+Crisps packets/sweets wrappers,MLW,Other
+Lolly sticks,MLW,Processed Lumber
+Toys and party poppers,MLW,Plastic
+Cups and cup lids,MLW,Plastic
+Cutlery and trays,MLW,Plastic
+Straws and stirrers,MLW,Plastic
+Fertiliser/animal feed bags,MLW,Plastic
+Mesh vegetable bags,MLW,Other
+Gloves (washing up),MLW,Plastic
+Gloves (industrial/professional rubber gloves),MLW,Rubber
+Crab/lobster pots and tops,MLW,Fishing Gear
+Tags (fishing and industry),MLW,Fishing Gear
+Octopus pots (plastic),MLW,Fishing Gear
+"Mussels nets, Oyster nets",MLW,Fishing Gear
+Oyster trays (round from oyster cultures),MLW,Fishing Gear
+Plastic sheeting from mussel culture (Tahitians),MLW,Fishing Gear
+Rope (diameter more than 1cm),MLW,Fishing Gear
+String and cord (diameter less than 1cm),MLW,Fishing Gear
+Nets and pieces of net,MLW,Fishing Gear
+Nets and pieces of net < 50 cm,MLW,Fishing Gear
+Nets and pieces of net > 50 cm,MLW,Fishing Gear
+Tangled nets/cord,MLW,Fishing Gear
+Fish boxes - plastic,MLW,Fishing Gear
+Fish boxes - expanded polystyrene,MLW,Fishing Gear
+Fishing line/monofilament (angling),MLW,Fishing Gear
+Light sticks (tubes with fluid) incl. packaging,MLW,Plastic
+Floats for fishing nets,MLW,Fishing Gear
+Buoys,MLW,Plastic
+Fenders,MLW,Plastic
+Buckets,MLW,Plastic
+Strapping bands,MLW,Plastic
+"Sheets, industrial packaging, plastic sheeting",MLW,Plastic
+Fibre glass/fragments,MLW,Glass
+Hard hats/Helmets,MLW,Plastic
+Shotgun cartridges,MLW,Plastic
+Shoes/sandals,MLW,Other
+Traffic cones,MLW,Rubber
+Foam sponge,MLW,Processed lumber
+Plastic/polystyrene pieces 2.5 cm > < 50cm,MLW,Plastic
+Plastic/polystyrene pieces > 50 cm,MLW,Plastic
+Plastic pieces 2.5 > < 50 cm,MLW,Plastic
+Plastic pieces > 50 cm,MLW,Plastic
+Polystyrene pieces 2.5 cm > < 50 cm,MLW,Plastic
+Polystyrene pieces > 50 cm,MLW,Plastic
+"CD, CD-box",MLW,Other
+Salt packaging,MLW,Processed lumber
+Fin trees (from fins for scubadiving),MLW,Plastic
+Masking tape,MLW,Processed lumber
+Telephone (incl. parts),MLW,Plastic
+plastic construction waste,MLW,Plastic
+Plastic flower pots,MLW,Plastic
+Biomass holder from sewage treatment plants,MLW,Metal
+Bait containers/packaging,MLW,Plastic
+Cable ties,MLW,Plastic
+Cotton bud sticks,MLW,Processed Lumber
+Sanitary towels/panty liners/backing strips,MLW,Plastic
+Toilet fresheners,MLW,Plastic
+Diapers/nappies,MLW,Plastic
+Syringes/needles,MLW,Other
+Medical/Pharmaceuticals containers/tubes,MLW,Other
+Dog feces bag,MLW,Plastic
+Flip-flops,MLW,Plastic
+Other plastic/polystyrene items (identifiable),MLW,Plastic
+Balloons and balloon sticks,MLW,Rubber
+Balls,MLW,Rubber
+Rubber boots,MLW,Rubber
+Tyres and belts,MLW,Rubber
+Inner-tubes and rubber sheet,MLW,Rubber
+Wheels,MLW,Rubber
+"Rubber bands (small, for kitchen/household/post use)",MLW,Rubber
+Bobbins (fishing),MLW,Fishing Gear
+Condoms (incl. packaging),MLW,Rubber
+Other rubber pieces,MLW,Rubber
+"Clothing / rags (clothing, hats, towels)",MLW,Cloth
+"Shoes and sandals (e.g. Leather, cloth)",MLW,Cloth
+Backpacks & bags,MLW,Cloth
+Sacking (hessian),MLW,Cloth
+Carpet & Furnishing,MLW,Cloth
+"Rope, string and nets",MLW,Fishing Gear
+"Sails, canvas",MLW,Cloth
+Tampons and tampon applicators,MLW,Other
+Other textiles (incl. rags),MLW,Cloth
+Paper bags,MLW,Processed Lumber
+Cardboard (boxes & fragments),MLW,Processed Lumber
+Cartons/Tetrapack Milk,MLW,Processed Lumber
+Cartons/Tetrapack (others),MLW,Processed Lumber
+Cigarette packets,MLW,Processed Lumber
+"Cups,  food  trays,  food  wrappers,  drink containers",MLW,Other
+Newspapers & magazines,MLW,Processed Lumber
+Tubes for fireworks,MLW,Processed Lumber
+Paper fragments,MLW,Processed Lumber
+Other paper items,MLW,Processed Lumber
+Corks,MLW,Processed Lumber
+Pallets,MLW,Processed Lumber
+Processed timber,MLW,Processed Lumber
+Crates,MLW,Processed Lumber
+Crab/lobster pots,MLW,Fishing Gear
+Fish boxes,MLW,Fishing Gear
+"Ice-cream sticks, chip forks, chopsticks & toothpicks",MLW,Processed Lumber
+Paint brushes,MLW,Processed Lumber
+Matches & fireworks,MLW,Processed Lumber
+Other wood < 50 cm,MLW,Processed Lumber
+Other wood > 50 cm,MLW,Processed Lumber
+Aerosol/Spray cans industry,MLW,Metal
+Cans (bevarage),MLW,Metal
+Cans (food),MLW,Metal
+"Foil wrappers, aluminum foil",MLW,Metal
+"Bottle caps, lids & pull tabs",MLW,Metal
+Disposable BBQ's,MLW,Metal
+"Appliances (refrigerators, washers, etc.)",MLW,Metal
+"Tableware (plates, cups & cutlery)",MLW,Other
+"Fishing related (weights, sinkers, lures, hooks)",MLW,Fishing Gear
+Lobster/crab pots,MLW,Fishing Gear
+Industrial scrap,MLW,Metal
+"Drums, e.g. oil",MLW,Metal
+Other cans (< 4 L),MLW,Metal
+"Gas bottles, drums & buckets ( > 4 L)",MLW,Metal
+Paint tin,MLW,Metal
+"Wire, wire mesh, barbed wire",MLW,Metal
+Car parts / batteries,MLW,Metal
+Cables,MLW,Metal
+Household Batteries,MLW,Metal
+Other metal pieces < 50 cm,MLW,Metal
+Other metal pieces > 50 cm,MLW,Metal
+Bottles incl. pieces,MLW,Glass
+Jars incl. pieces,MLW,Glass
+Light bulbs,MLW,Glass
+Tableware (plates & cups),MLW,Other
+"Construction material (brick, cement, pipes)",MLW,Other
+Fluorescent light tubes,MLW,Glass
+Glass buoys,MLW,Glass
+Octopus pots,MLW,Fishing Gear
+Glass or ceramic fragments > 2.5 cm,MLW,Glass
+Other glass items,MLW,Glass
+"Other medical items (swabs, bandaging, adhesive plaster etc.)",MLW,Other
+Paraffin/Wax,MLW,Other
