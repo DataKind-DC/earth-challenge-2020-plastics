@@ -59,17 +59,22 @@ First, determine how difficult it is to harmonize existing citizen science data 
 
 ### The Latest Post-Processed Data Files
 
+**Marine Debris Categories**
+
 For datasets 1-3, the specific column names indicating the type of item picked up (e.g., plastic soda bottle) have been mapped to Marine Debris Categories: `Plastic`, `Fishing Gear`, `Metal`, `Rubber`, `Glass`, `Cloth`, `Processed Lumber`, and `Other`. This mapping can be found in CSV format (`category_map.csv`) as well as dictionary format (`column_to_category_dict.json`).
 
 **MDMAP Accumulation Data**
+
 DATA CLEANING: Added a `unique_id` column to make it easier to link later analyses to the initial data upload to ArcGIS. For a plastics per square meter visualization, we computed the total area (in sq. meters) of each beach using the `length` and `width` info and removed the 7 observations with area = 0. The processing code is located at `mdmap_accumulation_totalarea.ipynb` and the resulting file is saved at `data_processed/mdmap_accumulation_totalarea_zerosremoved.csv`
 
 CATEGORY COUNTS: We computed the total items collected per Marine Debris Category, as well as the total items per category per square meter.  The processing code is located at `mdmap_totals_by_category.ipynb` and the data is saved at `data_processed/mdmap_totals_by_category.csv`.
 
 **TIDES Data**
+
 DATA CLEANING: Split the GPS coordinates into separate columns for Latitude and Longitude.  In addition, a new column was added to express beach length in terms of meters rather than miles (to harmonize with MDMAP and Marine LitterWatch). This latest data is saved at `data_processed/TIDES_detailed_summary_earth_cleaned.csv`.
 
 CATEGORY COUNTS: We computed the total items collected per Marine Debris Category, as well as the total items per category per square meter.  The processing code is located at `TIDES_totals_by_category.ipynb` and the data is saved at `data_processed/TIDES_earth_totals_by_category.csv`.
 
 **Marine LitterWatch Data**
+
 CATEGORY COUNTS: The Marine LitterWatch data columns were summed by Marine Debris Category and this result is saved at `data_processed/MarineLitterWatch_totals_by_category.csv`. It would be good to check the results by using a pipeline similar to what was done in `mdmap_totals_by_category.ipynb`.
