@@ -77,4 +77,4 @@ CATEGORY COUNTS: We computed the total items collected per Marine Debris Categor
 
 **Marine LitterWatch Data**
 
-CATEGORY COUNTS: The Marine LitterWatch data columns were summed by Marine Debris Category and this result is saved at `data_processed/MarineLitterWatch_totals_by_category.csv`. It would be good to check the results by using a pipeline similar to what was done in `mdmap_totals_by_category.ipynb`.
+CATEGORY COUNTS: The Marine LitterWatch data columns were summed by Marine Debris Category and this result is saved at `Marine_LitterWatch_processed_updated.csv`. Processing in `mdmap_totals_by_category.ipynb`replicated in `Marine_LitterWatch_totals_by_category.ipynb`.
