@@ -1,4 +1,4 @@
-UniqueID,Dataset,Date,Year,Month,Day,Latitude 1,Longitude 1,Latitude 2,Longitude 2,Country,Total Area,Total Area Unit,Total Item Count,Plastic Raw Count,Cloth Raw Count,Rubber Raw Count,Processed Lumbar Raw Count,Metal Raw Count,Glass Raw Count,Other Raw Count,Fishing Gear Raw Count
+UniqueID,Dataset,Date,Year,Month,Day,Latitude 1,Longitude 1,Latitude 2,Longitude 2,Country,Total Area,Total Area Unit,Total Item Count,Plastic Raw Count,Cloth Raw Count,Rubber Raw Count,Processed Lumber Raw Count,Metal Raw Count,Glass Raw Count,Other Raw Count,Fishing Gear Raw Count
 0,Marine LitterWatch,20160514,2016,05,14,38.10975,15.642479999999999,38.10975,15.643479999999998,IT,100,meters,3363.0,2695.0,12.0,125.0,418.0,90.0,23.0,0.0,0
 1,Marine LitterWatch,20140516,2014,05,16,44.42718,8.7507,44.42718,8.7517,IT,100,meters,569.0,436.0,0.0,6.0,37.0,28.0,62.0,0.0,0
 2,Marine LitterWatch,20150515,2015,05,15,41.8304,12.204,41.8304,12.205,IT,83,meters,288.0,274.0,0.0,0.0,0.0,0.0,14.0,0.0,0
