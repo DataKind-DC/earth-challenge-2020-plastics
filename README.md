@@ -73,7 +73,7 @@ CATEGORY COUNTS: We computed the total items collected per Marine Debris Categor
 
 DATA CLEANING: Split the GPS coordinates into separate columns for Latitude and Longitude.  In addition, a new column was added to express beach length in terms of meters rather than miles (to harmonize with MDMAP and Marine LitterWatch). This latest data is saved at `data_processed/TIDES_detailed_summary_earth_cleaned.csv`.
 
-CATEGORY COUNTS: We computed the total items collected per Marine Debris Category, as well as the total items per category per square meter.  The processing code is located at `TIDES_totals_by_category.ipynb` and the data is saved at `data_processed/TIDES_earth_totals_by_category.csv`.
+CATEGORY COUNTS: We computed the total items collected per Marine Debris Category, as well as the total items per category per meter.  The processing code is located at `TIDES_totals_by_category.ipynb` and the data is saved at `data_processed/TIDES_earth_totals_by_category.csv`.
 
 **Marine LitterWatch Data**
 
